@@ -1,4 +1,4 @@
-                                                         ##  Google-Project-Management-Certificate
+##                                                           Google-Project-Management-Certificate
 Introduction:
 -------------
 The Google Project Management Certificate is a comprehensive program designed to equip individuals with the essential skills and knowledge required for effective project management. Developed in collaboration with industry experts, this certificate aims to provide participants with practical insights into project planning, execution, and successful delivery.
